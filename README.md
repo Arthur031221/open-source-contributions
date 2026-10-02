@@ -7,6 +7,7 @@ Each entry links to the pull request. New entries are published as releases of t
 |---|---|---|
 | 2026-10-02 | [Orillusion/orillusion](https://github.com/Orillusion/orillusion) | [fix(math): correct Vector2 lerp endpoint order](https://github.com/Orillusion/orillusion/pull/508) |
 | 2026-10-02 | [vlang/v](https://github.com/vlang/v) | [time: return an error from parse functions for a day past the end of the month](https://github.com/vlang/v/pull/29228) |
+| 2026-10-02 | [dmlc/xgboost](https://github.com/dmlc/xgboost) | [[python-package] Reject numpy masked arrays instead of silently corrupting data](https://github.com/dmlc/xgboost/pull/12636) |
 | 2026-10-01 | [CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare) | [Fix ccScalarField::Range::setStart() collapsing the display range](https://github.com/CloudCompare/CloudCompare/pull/2440) |
 | 2026-10-01 | [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) | [Reject integer values that overflow an unsigned array trait](https://github.com/K3D-tools/K3D-jupyter/pull/545) |
 | 2026-10-01 | [braindecode/braindecode](https://github.com/braindecode/braindecode) | [Fix EEGRegressor loss broadcasting for one target per trial](https://github.com/braindecode/braindecode/pull/1197) |
