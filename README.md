@@ -5,6 +5,7 @@ Each entry links to the pull request. New entries are published as releases of t
 
 | Date | Project | Change |
 |---|---|---|
+| 2026-10-02 | [Orillusion/orillusion](https://github.com/Orillusion/orillusion) | [fix(math): correct Vector2 lerp endpoint order](https://github.com/Orillusion/orillusion/pull/508) |
 | 2026-10-01 | [CloudCompare/CloudCompare](https://github.com/CloudCompare/CloudCompare) | [Fix ccScalarField::Range::setStart() collapsing the display range](https://github.com/CloudCompare/CloudCompare/pull/2440) |
 | 2026-10-01 | [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) | [Reject integer values that overflow an unsigned array trait](https://github.com/K3D-tools/K3D-jupyter/pull/545) |
 | 2026-10-01 | [braindecode/braindecode](https://github.com/braindecode/braindecode) | [Fix EEGRegressor loss broadcasting for one target per trial](https://github.com/braindecode/braindecode/pull/1197) |
