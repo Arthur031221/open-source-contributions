@@ -7,6 +7,7 @@ Each entry links to the pull request. New entries are published as releases of t
 |---|---|---|
 | 2026-10-03 | [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) | [Fix negative_feedback_sampler biasing negatives toward low item IDs](https://github.com/recommenders-team/recommenders/pull/2392) |
 | 2026-10-03 | [openchamber/openchamber](https://github.com/openchamber/openchamber) | [fix(ui): normalize variant arrays in live model catalogs](https://github.com/openchamber/openchamber/pull/4322) |
+| 2026-10-03 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | [fix(python): support exist_ok in local create_table](https://github.com/lancedb/lancedb/pull/4421) |
 | 2026-10-02 | [Orillusion/orillusion](https://github.com/Orillusion/orillusion) | [fix(math): correct Vector2 lerp endpoint order](https://github.com/Orillusion/orillusion/pull/508) |
 | 2026-10-02 | [vlang/v](https://github.com/vlang/v) | [time: return an error from parse functions for a day past the end of the month](https://github.com/vlang/v/pull/29228) |
 | 2026-10-02 | [dmlc/xgboost](https://github.com/dmlc/xgboost) | [[python-package] Reject numpy masked arrays instead of silently corrupting data](https://github.com/dmlc/xgboost/pull/12636) |
